@@ -1,7 +1,7 @@
 import random
 import datetime
 
-print("🤖 Bot: Hello! I am your AI chatbot. Type 'bye' to exit.\n")
+print("Bot: Hello! I am your AI chatbot. Type 'bye' to exit.\n")
 
 while True:
     user = input("You: ").lower()
