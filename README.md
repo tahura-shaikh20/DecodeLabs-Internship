@@ -71,20 +71,75 @@ The goal is to classify the flower into one of three species.
 - Building a classification model
 - Evaluating model performance using multiple metrics
 
-  
-## Task 3:
-(To be added)
 
-## Task 4:
-(To be added)
+## Task 3: AI Recommendation System
 
----
+### Description
+This project implements a simple recommendation system based on user preferences. It uses similarity logic to match user interests with item features and provides personalized recommendations.
 
-## Technologies Used
+### Objective
+To build a content-based recommendation engine using pattern matching and similarity techniques.
+
+### Features
+- Takes user input (interests)
+- Matches input with item tags
+- Uses Jaccard Similarity for comparison
+- Displays similarity scores
+- Provides top recommendations
+- Highlights best match
+
+### Technologies Used
 - Python
-- Control Flow (if-else)
-- Loops
+- Set operations
+- Basic AI logic
 
+### How to Run
+1. Open terminal or command prompt
+2. Navigate to the project folder
+3. Run the file:
+   python task3.py
+4. Enter your interests when prompted
+
+### Example Input
+python, ai
+
+### Output
+- Displays similarity scores for all items
+- Shows top matching recommendations
+- Displays best match
+
+### Learning Outcome
+- Understanding recommendation systems
+- Applying similarity algorithms
+- Implementing pattern matching logic
+
+## Core Technologies
+- Python
+- GitHub
+
+## Programming Concepts
+- Conditional Statements (if-else)
+- Loops
+- Functions
+- User Input Handling
+- String Processing
+
+##Task 1(Chatbot)
+- Rule-based logic
+- Basic AI concepts
+
+##Task 2(Classification)
+- Machine Learning (Supervised Learning)
+- scikit-learn (sklearn)
+- Decision Tree Classifier
+- Data Splitting (train-test)
+- Model Evaluation (accuracy, confusion matrix)
+
+##Task3(Recommendation System)
+- Recommendation Systems
+- Content-Based Filtering
+- Jaccard Similarity Algorithm
+- Pattern Matching
 ---
 
 ## Author
